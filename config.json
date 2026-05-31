@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersender",
+        "uuid": 5009630,
+        "checksum": "3ghe5h"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
